@@ -1,14 +1,14 @@
 {
-    "name": "irazasyed/larasupport",
+    "name": "riccardovolpone/larasupport",
     "description": "Adds Support to use Laravel Packages in Lumen.",
     "keywords": ["laravel", "laravel lumen support", "lumen packages", "laravel packages", "lumen support"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Syed Irfaq R.",
-            "email": "syed+gh@lukonet.com",
-            "homepage": "https://lukonet.com",
-            "role": "Developer"
+            "name": "Riccardo Volpone",
+            "email": "riccardo@s2kagency.it",
+            "homepage": "http://s2kagency.com/",
+            "role": "DevOps"
         }
     ],
     "require": {
