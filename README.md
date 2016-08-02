@@ -43,7 +43,7 @@ $ composer update
 Add this service provider to your `bootstrap/app.php` file.
 
 ``` php
-$app->register(Irazasyed\Larasupport\Providers\ArtisanServiceProvider::class);
+$app->register(Riccardovolpone\Larasupport\Providers\ArtisanServiceProvider::class);
 ```
 Artisan Service Provider is an optional provider required only if you want `vendor:publish` command working.
 

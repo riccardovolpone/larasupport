@@ -1,9 +1,9 @@
 <?php
 
-namespace Irazasyed\Larasupport\Providers;
+namespace Riccardovolpone\Larasupport\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Irazasyed\Larasupport\Console\VendorPublishCommand;
+use Riccardovolpone\Larasupport\Console\VendorPublishCommand;
 
 class ArtisanServiceProvider extends ServiceProvider
 {

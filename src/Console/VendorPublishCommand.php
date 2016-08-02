@@ -1,6 +1,6 @@
 <?php
 
-namespace Irazasyed\Larasupport\Console;
+namespace Riccardovolpone\Larasupport\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
