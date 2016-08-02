@@ -19,12 +19,7 @@
         "src/helpers.php"
       ],
       "psr-4": {
-          "Irazasyed\\Larasupport\\": "src/"
+          "Riccardovolpone\\Larasupport\\": "src/"
       }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
     }
 }
